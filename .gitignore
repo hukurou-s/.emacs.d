@@ -1,0 +1,14 @@
+projectile-bookmarks.eld
+
+*~
+auto-save-list/*
+history
+.DS_Store
+elpa/*
+url/*
+bookmarks
+eshell/*
+ac-comphist.dat
+.cask/*
+*.back
+recentf
